@@ -46,4 +46,6 @@ $navbar-padding-y: 1rem;
 $navbar-dark-color: #fff;
 $navbar-dark-hover-color: $secondary;
 
+$enable-negative-margins: true;
+
 @import '../node_modules/bootstrap/scss/bootstrap';
